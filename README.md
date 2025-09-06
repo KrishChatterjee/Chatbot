@@ -24,6 +24,7 @@ Deployment: Streamlit,
 
 
 📂 Repository Structure
+
 ├── chat_bot.py          # Core chatbot logic
 
 ├── requirements.txt     # Dependencies
